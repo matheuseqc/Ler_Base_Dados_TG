@@ -4,10 +4,10 @@
 
 ## Como Usar
 
-##Licença
+## Licença
 
-##Contato do desenvolvedor
+## Contato do desenvolvedor
 
-##Hardware sugerido
+## Hardware sugerido
 
-##Software necessário
+## Software necessário
