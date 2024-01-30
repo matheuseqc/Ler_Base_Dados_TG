@@ -21,6 +21,5 @@ for arquivo in arquivos:
 
     # Exibindo a matriz de distâncias para cada arquivo
     print(f'Matriz de distâncias para {arquivo}:')
-    for linha in matriz_distancias:
-        print(linha)
+    print(matriz_distancias)
     print('\n' + '='*40 + '\n')  # Separador entre os arquivos
