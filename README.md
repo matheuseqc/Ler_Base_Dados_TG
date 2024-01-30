@@ -34,13 +34,13 @@ E-mail: matheus.santos2@arapiraca.ufal.br
 
 Dois computadores diferentes foram utilizados para executar o programa sem problema algum:
 ***
-Matheus:
+Matheus:  
 Processador: Intel(R) Celeron(R) CPU 4205U @ 1.80GHz   1.80 GHz  
 Memória RAM: 8,00 GB 2400 MHz DDR4  
 Armazenamento: SSD NVME de 256 GB  e HD  de 500 GB  
 Sistema Operacional: Windows 11 Home Single Language  
 ***
-Adauto:
+Adauto:  
 Processador: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz   2.70 GHz  
 Memória RAM: 8,00 GB 2400 MHz DDR4  
 Armazenamento: HD 1 TB  
