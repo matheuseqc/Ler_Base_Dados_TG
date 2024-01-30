@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto, atualmente, serve apenas para ler a base de dados dos arquivos na pasta "ler_base_dados" e criar listas em python para organizar os arquivos.
+Este projeto, atualmente, serve apenas para ler a base de dados dos arquivos na pasta "ler_base_dados" e criar listas em python para organizar os arquivos. as bases de dados lidas incluem ATT48, DANTZIG42, FRI26, GR17 e P01.
 
 ## Instalação
 
