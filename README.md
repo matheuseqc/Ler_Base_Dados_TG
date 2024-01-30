@@ -10,7 +10,10 @@ Para baixar o programa, basta clonar o repositório ou utilizar o botão para ba
 
 ## Como Usar
 
-Para utilizar o programa, basta seguir os passos de instalação e executar o programa, que então irá imprimir na tela as listas de forma legível de cada arquivo.
+Para utilizar o programa, basta seguir os passos de instalação, entrar no diretório do projeto através de um terminal e executar o programa com o comando abaixo, que então irá imprimir na tela as listas de forma legível de cada arquivo:
+```bash
+  python3 index.py
+```
 
 ## Licença
 
