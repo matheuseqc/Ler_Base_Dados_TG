@@ -16,7 +16,7 @@ Para utilizar o programa, basta seguir os passos de instalação e executar o pr
 
 Este projeto está licenciado sob a licença do MIT.
 
-## Contato do desenvolvedor
+## Contato dos desenvolvedores
 
 Desenvolvedor: Adauto Balbino  
 E-mail: adauto.sobrinho@arapicara.ufal.br  
