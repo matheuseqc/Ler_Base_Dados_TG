@@ -1,5 +1,5 @@
 def ler_matriz_distancias(arquivo):
-    matriz_distancias = []  # Lista de listas para armazenar os dados
+    matriz_distancias = []  
 
     with open(arquivo, 'r') as file:
         linhas = file.readlines()

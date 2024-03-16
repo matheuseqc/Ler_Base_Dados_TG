@@ -10,10 +10,10 @@ def brute_force_tsp(dist_matrix):
     min_path = None
     min_distance = sys.maxsize
 
-    for tour in permutations(range(n)):  # Generate all possible tours
-        distance = sum(dist_matrix[tour[i-1]][tour[i]] for i in range(n))  # Calculate the total distance of the tour
+    for tour in permutations(range(n)): 
+        distance = sum(dist_matrix[tour[i-1]][tour[i]] for i in range(n))  
 
-        if distance < min_distance:  # If this tour is shorter, update min_distance and min_path
+        if distance < min_distance:  
             min_distance = distance
             min_path = tour
 

@@ -2,8 +2,7 @@ def dijkstra_tsp(dist_matrix):
     n = len(dist_matrix)
     all_points_set = set(range(n))
 
-    # memo keys: tuple(sorted_points_in_path, last_point_in_path)
-    # memo values: tuple(length_of_shortest_path, previous_last_point)
+
     memo = {(tuple([i]), i): tuple([0, None]) for i in range(n)}
     queue = [(tuple([i]), i) for i in range(n)]
 
