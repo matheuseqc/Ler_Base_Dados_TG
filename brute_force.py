@@ -1,15 +1,9 @@
-import signal
 import os
 from itertools import permutations
 import sys
 
 pasta_base = '/ler_base_de_dados'
-# Define the handler for the alarm signal
-def handler(signum, frame):
-    raise Exception("O código executou por mais de 12 horas")
 
-# Set the signal handler
-signal.signal(signal.SIGALRM, handler)
 
 def brute_force_tsp(dist_matrix):
     n = len(dist_matrix)
@@ -25,5 +19,3 @@ def brute_force_tsp(dist_matrix):
 
     return min_path, min_distance
 
-# Set the alarm for 12 hours
-signal.alarm(12 * 60 * 60)
