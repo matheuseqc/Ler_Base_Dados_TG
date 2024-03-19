@@ -11,7 +11,7 @@ from func_timeout import func_timeout, FunctionTimedOut
 arquivos = ['teste.txt', 'att48_d.txt', 'dantzig42_d.txt', 'fri26_d.txt', 'gr17_d.txt', 'p01_d.txt']
 
 # Base directory for reading data
-pasta_base = 'read_data'
+pasta_base = 'ler_base_dados'
 
 # Selected algorithm for solving TSP
 algoritmo = christofides_tsp
