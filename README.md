@@ -53,6 +53,15 @@ Sistema Operacional: Windows 10 Home Single Language
 
 O projeto foi desenvolvido e testado no Windows 10 e 11. Certifique-se de ter a versão mais recente do Python instalada em sua máquina. O projeto pode ser executado com o Python após instalar a biblioteca func_timeout com `pip install func_timeout`.
 
+## Resultados Obtidos
+
+<img src="/assets/img/1.png">
+<img src="/assets/img/2.png">
+<img src="/assets/img/3.png">
+<img src="/assets/img/4.png">
+<img src="/assets/img/5.png">
+<img src="/assets/img/6.png">
+
 ## Agradecimentos
 
 Professora Raquel ❤️
